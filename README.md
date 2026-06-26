@@ -86,12 +86,6 @@ Git • Linux • VS Code • Android Studio • MySQL
 
 ---
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zdifahk/zdifahk/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zdifahk/zdifahk/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zdifahk/zdifahk/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-</picture>
-
 ## 📊 Khafidz's GitHub Stats
 
 <p align="center">
@@ -100,7 +94,7 @@ Git • Linux • VS Code • Android Studio • MySQL
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zdifahk&layout=compact&theme=github_dark"/>
 
-<img src="https://raw.githubusercontent.com/zdifahk/zdifahk/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+<!-- <img src="https://raw.githubusercontent.com/zdifahk/zdifahk/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  /> -->
 
 </p>
 
@@ -112,6 +106,11 @@ Git • Linux • VS Code • Android Studio • MySQL
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zdifahk&theme=github-dark"/>
 
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zdifahk/zdifahk/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zdifahk/zdifahk/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zdifahk/zdifahk/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+</picture>
 </p>
 
 ---
@@ -160,6 +159,15 @@ Git • Linux • VS Code • Android Studio • MySQL
 <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=zdifahk.zdifahk&"  />
 </div>
+
+---
+
+<a href="https://zdifahk.pythonanywhere.com/link">
+  <img
+    src="https://zdifahk.pythonanywhere.com"
+    alt="Current Spotify Song"
+  />
+</a>
 
 ---
 
