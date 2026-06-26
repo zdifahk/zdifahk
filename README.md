@@ -86,6 +86,14 @@ Git • Linux • VS Code • Android Studio • MySQL
 
 ---
 
+<p align="center">
+</p>
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zdifahk/zdifahk/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zdifahk/zdifahk/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zdifahk/zdifahk/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
 ## 📊 Khafidz's GitHub Stats
 
 <p align="center">
@@ -110,17 +118,6 @@ Git • Linux • VS Code • Android Studio • MySQL
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/ZDIFAHK/ZDIFAHK/output/github-contribution-grid-snake.svg"  alt="Snake animation"/>
-
-</p>
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zdifahk/zdifahk/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zdifahk/zdifahk/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zdifahk/zdifahk/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-<img data-importer="snake" src="https://raw.githubusercontent.com/zdifahk/zdifahk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 <img data-importer="snake" src="https://raw.githubusercontent.com/zdifahk/zdifahk/snake-output/snake.svg" alt="Snake animation" />
 
 ---
@@ -161,5 +158,7 @@ Git • Linux • VS Code • Android Studio • MySQL
 </div>
 
 <div data-importer="music" align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/zdifahk">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=zdifahk&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
 </div>
