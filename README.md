@@ -129,9 +129,9 @@ Git • Linux • VS Code • Android Studio • MySQL
 ---
 
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZDIFAhk/ZDIFAhk/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZDIFAhk/ZDIFAhk/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ZDIFAhk/ZDIFAhk/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zdifahk/zdifahk/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zdifahk/zdifahk/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zdifahk/zdifahk/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 <img data-importer="snake" src="https://raw.githubusercontent.com/zdifahk/zdifahk/snake-output/snake.svg" alt="Snake animation" />
 
@@ -151,7 +151,7 @@ Git • Linux • VS Code • Android Studio • MySQL
 <div data-importer="socials" align="left">
   <a target="_blank" href="https://www.linkedin.com/in/zdifahk><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
   <a target="_blank" href="https://x.com/khaf1dz><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  /></a>
-  <a target="_blank" href="https://discord.com/users/zdifahk<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
+  <a target="_blank" href="https://discord.com/users/zdifahk><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
   <a target="_blank" href=https://www.youtube.com/@kanggurusmk><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  /></a>
 </div>
 
