@@ -121,6 +121,7 @@ Git • Linux • VS Code • Android Studio • MySQL
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zdifahk/zdifahk/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 <img data-importer="snake" src="https://raw.githubusercontent.com/zdifahk/zdifahk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img data-importer="snake" src="https://raw.githubusercontent.com/zdifahk/zdifahk/snake-output/snake.svg" alt="Snake animation" />
 
 ---
 
@@ -159,6 +160,6 @@ Git • Linux • VS Code • Android Studio • MySQL
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=ZDIFAhk.ZDIFAhk&"  />
 </div>
 
-<!-- <div data-importer="music" align="center">
+<div data-importer="music" align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div> -->
+</div>
