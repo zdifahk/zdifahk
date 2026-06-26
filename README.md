@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img style="100%" src="https://github.com/zdifahk/zdifahk/blob/main/Gemini_Generated_Image_f3sbgpf3sbgpf3sb.png"  />
 </div>
 <h1 align="center">Hi 👋, I'm Moch Khafidz</h1>
 
@@ -101,6 +101,7 @@ Git • Linux • VS Code • Android Studio • MySQL
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zdifahk&layout=compact&theme=github_dark"/>
 
 <img src="https://raw.githubusercontent.com/zdifahk/zdifahk/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+
 </p>
 
 ---
