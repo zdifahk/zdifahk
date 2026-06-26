@@ -120,7 +120,7 @@ Git • Linux • VS Code • Android Studio • MySQL
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zdifahk/zdifahk/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zdifahk/zdifahk/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
-<img data-importer="snake" src="https://raw.githubusercontent.com/zdifahk/zdifahk/snake-output/snake.svg" alt="Snake animation" />
+<img data-importer="snake" src="https://raw.githubusercontent.com/zdifahk/zdifahk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ---
 
