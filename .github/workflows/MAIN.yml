@@ -1,3 +1,7 @@
+# Source - https://stackoverflow.com/q/79933535
+# Posted by Mirza Šabanović
+# Retrieved 2026-06-26, License - CC BY-SA 4.0
+
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
 
 name: Generate Snake
@@ -23,30 +27,24 @@ jobs:
     steps:
 
     # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v2
 
     # Generates the snake  
-      - uses: Platane/snk@v3
+      - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: zdifahk
           # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
-          outputs: |
-            dist/github-contribution-grid-snake.gif
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-     # show the status of the build. Makes it easier for debugging (if there's any issues).
-      - name: Show build status
-        run: git status
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - name: Push new files to output branch 
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+     # show the status of the build. Makes it easier for debugging (if there's any issues).
+      - run: git status
+
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           # the output branch we mentioned above
           target_branch: output
           build_dir: dist
-          commit_message: Update snake animations
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
