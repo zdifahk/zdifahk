@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div data-importer="border">
-  <img style="100%" src="https://github.com/zdifahk/zdifahk/main/hero-img.png"  />
+  <img style="100%" src="https://github.com/zdifahk/zdifahk/blob/main/hero-img.png"  />
 </div>
 <h1 align="center">Hi 👋, I'm Moch Khafidz</h1>
 
