@@ -100,6 +100,7 @@ Git • Linux • VS Code • Android Studio • MySQL
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zdifahk&layout=compact&theme=github_dark"/>
 
+<img src="https://raw.githubusercontent.com/zdifahk/zdifahk/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </p>
 
 ---
