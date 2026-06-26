@@ -86,12 +86,10 @@ Git • Linux • VS Code • Android Studio • MySQL
 
 ---
 
-<p align="center">
-</p>
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zdifahk/zdifahk/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zdifahk/zdifahk/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zdifahk/zdifahk/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zdifahk/zdifahk/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zdifahk/zdifahk/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zdifahk/zdifahk/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
 </picture>
 
 ## 📊 Khafidz's GitHub Stats
@@ -142,23 +140,26 @@ Git • Linux • VS Code • Android Studio • MySQL
 
 ---
 
-## 📫 Connect With Me
-<div data-importer="socials" align="left">
-  <a target="_blank" href="https://www.linkedin.com/in/zdifahk"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
-  <a target="_blank" href="https://x.com/khaf1dz"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  /></a>
-  <a target="_blank" href="https://discord.com/users/zdifahk"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
-  <a target="_blank" href="https://www.youtube.com/@kanggurusmk"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  /></a>
-</div>
-
----
-
-> *"Keep learning. Keep building. Keep sharing."*
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=ZDIFAhk.ZDIFAhk&"  />
-</div>
+## 📫 Keep in touch with me
 
 <div data-importer="music" align="center">
   <a href="https://open.spotify.com/user/zdifahk">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=zdifahk&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
+<div data-importer="socials" align="center">
+  <a target="_blank" href="https://www.linkedin.com/in/zdifahk"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
+  <a target="_blank" href="https://x.com/khaf1dz"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  /></a>
+  <a target="_blank" href="https://discord.com/users/zdifahk"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
+  <a target="_blank" href="https://www.youtube.com/@kanggurusmk"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  /></a>
+  <a target="_blank" href="mailto:iamkhafidz@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
+
+</div>
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=zdifahk.zdifahk&"  />
+</div>
+
+---
+
+> *"Keep learning. Keep building. Keep sharing."*
+
