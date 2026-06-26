@@ -112,7 +112,7 @@ Git • Linux • VS Code • Android Studio • MySQL
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/ZDIFAHK/ZDIFAHK/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/ZDIFAHK/ZDIFAHK/output/github-contribution-grid-snake.svg"  alt="Snake animation"/>
 
 </p>
 <picture data-importer="pacman">
