@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div data-importer="border">
-  <img style="100%" src="https://github.com/zdifahk/zdifahk/blob/main/hero-img.png"  />
+  <img style="100%" src="https://github.com/zdifahk/zdifahk/main/hero-img.png"  />
 </div>
 <h1 align="center">Hi 👋, I'm Moch Khafidz</h1>
 
@@ -94,7 +94,7 @@ Git • Linux • VS Code • Android Studio • MySQL
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zdifahk&layout=compact&theme=github_dark"/>
 <br>
-<img src="https://raw.githubusercontent.com/zdifahk/zdifahk/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
+<img src="https://raw.githubusercontent.com/zdifahk/zdifahk/trophy-output/trophy.svg?theme=github_dark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
 
 <!-- <img src="https://raw.githubusercontent.com/zdifahk/zdifahk/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  /> -->
 
@@ -171,8 +171,5 @@ Git • Linux • VS Code • Android Studio • MySQL
     alt="Current Spotify Song"
   />
 </a> -->
-
----
-
 > *"Keep learning. Keep building. Keep sharing."*
 
