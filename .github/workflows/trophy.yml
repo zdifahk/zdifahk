@@ -1,62 +1,62 @@
 name: Generate trophy card
 
 on:
-schedule:
-- cron: "0 */12 * * *"
-workflow_dispatch:
-push:
-branches:
-- main
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
-generate:
-permissions:
-contents: write
+  generate:
+    permissions:
+      contents: write
 
-runs-on: ubuntu-latest
-timeout-minutes: 10
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
 
-steps:
-  - name: Checkout repository
-    uses: actions/checkout@v4
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-  - name: Setup Deno
-    uses: denoland/setup-deno@v2
-    with:
-      deno-version: lts
-      cache: true
+      - name: Setup Deno
+        uses: denoland/setup-deno@v2
+        with:
+          deno-version: lts
+          cache: true
 
-  - name: Download GitHub Profile Trophy
-    run: |
-      git clone --depth 1 https://github.com/ryo-ma/github-profile-trophy.git trophy-generator
+      - name: Download GitHub Profile Trophy
+        run: |
+          git clone --depth 1 https://github.com/ryo-ma/github-profile-trophy.git trophy-generator
 
-  - name: Generate trophy.svg
-    env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-    run: |
-      mkdir -p dist
+      - name: Generate trophy.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          mkdir -p dist
 
-      cd trophy-generator
+          cd trophy-generator
 
-      deno run \
-        --allow-net \
-        --allow-env \
-        --allow-read \
-        --allow-write \
-        ./render_svg.ts \
-        "zdifahk" \
-        "../dist" \
-        "dracula"
+          deno run \
+            --allow-net \
+            --allow-env \
+            --allow-read \
+            --allow-write \
+            ./render_svg.ts \
+            "zdifahk" \
+            "../dist" \
+            "dracula"
 
-  - name: Show generated files
-    run: |
-      echo "Generated files:"
-      find dist -type f -maxdepth 2
+      - name: Show generated files
+        run: |
+          echo "Generated files:"
+          find dist -type f -maxdepth 2
 
-  - name: Publish trophy.svg
-    uses: crazy-max/ghaction-github-pages@v3.1.0
-    with:
-      target_branch: trophy-output
-      build_dir: dist
-    env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Publish trophy.svg
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: trophy-output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
